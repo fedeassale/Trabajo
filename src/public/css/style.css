@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+form{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+label{
+    display: inline-block; width: 80px; 
+   }
+.centrarForm{
+    width: 50%;
+    margin:auto;
+}
+nav{
+    background-color: burlywood;
+}
+table{
+    width: 100%;
+}
+.centrarTabla{
+    width: 50%;
+    margin:auto;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
